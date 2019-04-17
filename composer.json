@@ -1,0 +1,15 @@
+{
+    "name": "soham/mini-project",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^8.1"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "soham",
+            "email": "sy357@njit.edu"
+        }
+    ],
+    "require": {}
+}
